@@ -1,8 +1,8 @@
-[!IMPORTANT]
+>[!IMPORTANT]
 Las dependencias son:
 - apollo-server
 - mongoose
 - graphql
 
-[!COMMNAD]
+>[!COMMNAD]
 npm i apollo-server mongoose graphql
